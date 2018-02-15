@@ -407,3 +407,5 @@ $ cd broadworks-ocip
  Session
   Session.php                # Portable Session object used to store details of the current authenticated session.
 ```
+External docs:
+    http://docplayer.es/702148-Laboratorio-iii-de-sistemas-de-telecomunicaciones-practica-n-4-generador-de-trafico-sipp-y-pruebas-de-trafico.html
